@@ -1,6 +1,7 @@
-// import { findElastic, bootstrapElastic } from './elastic.js'
-import { findOpenSearch, bootstrapOpenSearch } from './opensearch.js'
+import { findOpenSearch, bootstrapOpenSearch } from './src/opensearch.js'
+// import {findElastic, bootstrapElastic} from './src/elastic.js'
 
+// bootstrapElastic();
 // findElastic("Joe");
 
 
